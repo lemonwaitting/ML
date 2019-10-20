@@ -1,13 +1,3 @@
----
-title: My Test Page
-date: 2019-07-21 01:02:11
-tags: test
-
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
----
-
 # 逻辑斯特回归 (logistic regression)
 
 - [ ] 首先介绍一下线性回归：
